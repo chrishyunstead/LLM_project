@@ -1,3 +1,4 @@
+## 그라디오와 랭체인, openai_api_key를 이용한 챗봇 생성
 import os
 from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
